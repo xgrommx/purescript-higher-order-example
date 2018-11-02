@@ -10,7 +10,7 @@
     "purescript-prelude": "^4.1.0",
     "purescript-console": "^4.1.0",
     "purescript-effect": "^2.0.0",
-    "purescript-higher-order": "natefaubion/purescript-higher-order#4912d1fc09546e6480e4d7599ddc15355ce7a469",
+    "purescript-higher-order": "natefaubion/purescript-higher-order",
     "purescript-prettier-printer": "^2.0.1",
     "purescript-leibniz": "^5.0.0",
     "purescript-arrays": "^5.1.0",
